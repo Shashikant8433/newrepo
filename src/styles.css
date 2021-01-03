@@ -116,7 +116,7 @@ a {
     align-items: center;
     justify-content: center;
     align-content: space-around;
-    gap: 2rem;
+    gap: 0.1rem;
   }
   .img1 {
     width: 100%;
@@ -190,7 +190,7 @@ a {
     align-items: center;
     justify-content: center;
     align-content: space-around;
-    gap: 2rem;
+    gap: 1rem;
   }
   body {
     background-image: linear-gradient(#fff 5%, #fff8aa 60%);
