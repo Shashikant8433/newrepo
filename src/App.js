@@ -76,24 +76,30 @@ export default function App() {
         </div>
         <div className="footer">
           <div className="o">
-            <img
-              src="/assets/phone-square-alt-solid.svg"
-              className="ph"
-              alt="phone icon"
-            />
-            <a href="tel:+911800 200 1234">1800 200 1234</a>
+            <a href="tel:+911800 200 1234">
+              <img
+                src="/assets/phone-square-alt-solid.svg"
+                className="ph"
+                alt="phone icon"
+              />
+              1800 200 1234
+            </a>
           </div>
           <div className="tw">
-            <img
-              src="/assets/facebook-brands.svg"
-              className="fb"
-              alt="facebook icon"
-            />
-            <a href="http://facebook.com">www.facebook.com/cripumps</a>
+            <a href="http://facebook.com">
+              <img
+                src="/assets/facebook-brands.svg"
+                className="fb"
+                alt="facebook icon"
+              />
+              www.facebook.com/cripumps
+            </a>
           </div>
           <div className="th">
-            <img src="/assets/domain.png" className="ws" alt="website icon" />
-            <a href="http://www.crigroups.com">www.crigroups.com</a>
+            <a href="http://www.crigroups.com">
+              <img src="/assets/domain.png" className="ws" alt="website icon" />
+              www.crigroups.com
+            </a>
           </div>
         </div>
       </div>
