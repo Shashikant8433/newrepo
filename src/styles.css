@@ -12,6 +12,15 @@ body {
   align-self: flex-end;
   width: 34%;
 }
+.span {
+  border-right-style: solid;
+  border-right-color: #ec3237;
+  border-right-width: 2px;
+  padding: 4px;
+}
+.lh {
+  line-height: 20px;
+}
 .main {
   width: 66%;
   padding: 10px;
@@ -90,6 +99,15 @@ a {
     margin: 0;
     padding: 0;
     background-image: linear-gradient(#fff 5%, #fff8aa 60%);
+  }
+  .span {
+    border-right-style: solid;
+    border-right-color: #ec3237;
+    border-right-width: 1.9px;
+    padding: 4px;
+  }
+  .lh {
+    line-height: 20px;
   }
   .flex-container {
     display: flex;
@@ -186,6 +204,9 @@ a {
     width: 35px;
     height: 35px;
   }
+  .lh {
+    line-height: 20px;
+  }
   .footer {
     height: auto;
     padding: 1rem;
@@ -195,6 +216,12 @@ a {
     justify-content: center;
     align-content: space-around;
     gap: 1rem;
+  }
+  .span {
+    border-right-style: solid;
+    border-right-color: #ec3237;
+    border-right-width: 2px;
+    padding: 4px;
   }
   body {
     background-image: linear-gradient(#fff 5%, #fff8aa 60%);

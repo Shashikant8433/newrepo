@@ -54,11 +54,24 @@ export default function App() {
           </p>
           <hr color="#ec3237" width="90%" />
           <p>C.R.I. FLUID SYSTEMS PRODUCTS CATER TO DIVERSE SEGMENTS</p>
-          <p>
-            CHEMICALS & PROCESS POWER WATER & WASTE WATER OILS & GAS PHARMA
-            SUGARS & DISTILLERIES PAPER & PULP MARINE & DEFENCE METAL & MINING
-            FOOD & BEVERAGE PETROCHEMICAL & REFINERIES SOLAR BUILDING HVAC FIRE
-            FIGHTING AGRICULTURE & RESIDENTIAL
+
+          <p className="lh">
+            <span className="span">CHEMICALS & PROCESS</span>
+            <span className="span">POWER</span>
+            <span className="span">WATER & WASTE WATER</span>
+            <span className="span">OILS & GAS</span>
+            <span className="span">PHARMA</span>
+            <span className="span">SUGARS & DISTILLERIES</span>
+            <span className="span">PAPER & PULP</span>
+            <span className="span">MARINE & DEFENCE</span>
+            <span className="span">METAL & MINING</span>
+            <span className="span">FOOD & BEVERAGE</span>
+            <span className="span">PETROCHEMICAL & REFINERIES</span>
+            <span className="span">SOLAR</span>
+            <span className="span">BUILDING</span>
+            <span className="span">HVAC</span>
+            <span className="span">FIRE FIGHTING</span>
+            AGRICULTURE & RESIDENTIAL
           </p>
         </div>
         <div className="footer">
