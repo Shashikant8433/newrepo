@@ -3,7 +3,7 @@ import "./styles.css";
 
 export default function App() {
   return (
-    <div classNameName="App">
+    <div className="App">
      <div className="flex-container">
       <div className="trophy">
         <img src="/assets/1.png" alt="Image of the Trophy" className="img1" />
