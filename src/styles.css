@@ -110,7 +110,7 @@ a {
     padding: 4px;
   }
   .lh {
-    width: 100%;
+    max-width: 70%;
     line-height: 20px;
   }
   .flex-container {
@@ -172,7 +172,7 @@ a {
   }
   .bottom p {
     font-size: 1rem;
-    margin-top: 0px;
+    margin-top: 5px;
   }
   p {
     font-size: 1rem;
