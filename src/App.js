@@ -27,11 +27,18 @@ export default function App() {
               with IoT enabled control panel.
             </li>
           </ul>
+          <div className="newdiv">
           <img
             src="/assets/2.png"
             alt="Award presenting ceremony"
             className="img2"
           />
+          <img
+            src="/assets/1.png"
+            alt="trophy"
+            className="trophynew"
+          />
+            </div>
           <p>
             Government of India has awarded the "National Energy Conservation
             Award 2018". Mr. G. Selvaraj, Joint Managing Director of C.R.I.
