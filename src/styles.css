@@ -110,8 +110,9 @@ a {
     padding: 4px;
   }
   .lh {
-    max-width: 70%;
+    max-width: 100%;
     line-height: 20px;
+    font-size: 0.7rem;
   }
   .flex-container {
     display: flex;
